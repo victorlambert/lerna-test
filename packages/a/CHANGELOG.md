@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.4.0](https://github.com/victorlambert/lerna-test/compare/v1.3.0...v1.4.0) (2020-05-15)
+
+
+### Features
+
+* **a:** big change to a ([c1e9821](https://github.com/victorlambert/lerna-test/commit/c1e9821c06056e103ee300e28b73f5ad94740f5a))
+
+
+
+
+
 # [1.2.0](https://github.com/victorlambert/lerna-test/compare/v1.1.1...v1.2.0) (2020-05-15)
 
 
