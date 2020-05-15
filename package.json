@@ -1,9 +1,9 @@
 {
-  "packages": [
-    "packages/*"
-  ],
   "name": "lerna-test",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.21.0"
+  }
 }
